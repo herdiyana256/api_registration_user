@@ -1,4 +1,11 @@
 # CodeIgniter 4 Application Starter - API user management 
+![delete user_DELETE](https://github.com/herdiyana256/api_registration_user/assets/82978131/f5c2dfe9-769a-4947-b675-94d8127aa3da)
+![database_update](https://github.com/herdiyana256/api_registration_user/assets/82978131/8cd00c1b-7c28-4936-a76c-12dc33796658)
+![changed password_PUT](https://github.com/herdiyana256/api_registration_user/assets/82978131/3c725a17-8d2d-4d57-a742-218febfbc9b9)
+![POST_json](https://github.com/herdiyana256/api_registration_user/assets/82978131/523e9d1c-79fc-470e-b4af-c5407c6a20c3)
+![GET_All user](https://github.com/herdiyana256/api_registration_user/assets/82978131/7e8d5c89-26e9-451a-9c37-b367a27a217e)
+![duplicate_user](https://github.com/herdiyana256/api_registration_user/assets/82978131/198293a6-a6d8-46c1-8b47-63dfeaa8dc04)
+
 
 
 Rute URL untuk Metode POST (Registrasi Pengguna)
